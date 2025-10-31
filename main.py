@@ -8,3 +8,5 @@ def greet(name: str) -> str:
 
 if __name__ == "__main__":
     mcp.run()
+
+#hahah
